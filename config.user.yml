@@ -41,7 +41,7 @@ navigation:
 social:
   - name: Blog
     url: https://blog.stickland.top
-    icon: fab fa-blog
+    icon: fa-solid fa-braille
 categories:
   - name: MY-WEBSITE
     icon: fas fa-star

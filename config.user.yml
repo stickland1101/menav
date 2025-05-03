@@ -3,7 +3,7 @@ site:
   description: 我的个人网络导航
   author: stickland
   favicon: favicon.ico
-  logo_text: 导航站
+  logo_text: stickland
 fonts:
   title:
     family: Poppins
@@ -70,6 +70,10 @@ categories:
         url: https://blog.stickland.top
         icon: fa-solid fa-eye
         description: 点击催我更新博客（咕咕）
+      - name: 我的导航站
+        url: https://guide.stickland.top
+        icon: fa-solid fa-location-pin
+        description: 本站在此！
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:

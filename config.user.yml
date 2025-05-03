@@ -159,7 +159,7 @@ projects:
       sites:
         - name: AI文生图前端
           icon: fas fa-compass
-          description: 练手作，有点粗糙
+          description: 练手作，过于粗糙，别看
           url: "https://github.com/stickland1101/Ai_Image_Generator_Webpage"
 
 articles:
@@ -200,9 +200,9 @@ friends:
     - name: 技术博主
       icon: fas fa-user-friends
       sites:
-        - name: 欢迎添加我的友联
+        - name: 欢迎添加我的友链
           icon: fas fa-code
-          description: 热爱生活
+          description: 互加互加！
           url: "#"
  
     - name: 技术社区

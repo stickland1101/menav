@@ -49,7 +49,7 @@ categories:
       - name: AI-Chat
         url: https://chat.stickland.top
         icon: fa-solid fa-message
-        description: ai公益站,内置多种付费顶级大模型
+        description: ai公益站,内置多种付费顶级大模型,密钥:test
       - name: AI-image
         url: https://image.stickland.top
         icon: fa-solid fa-images

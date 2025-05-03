@@ -39,25 +39,16 @@ navigation:
     icon: fas fa-bookmark
     id: bookmarks
 social:
-  - name: GitHub
-    url: https://chat.stickland.top
-    icon: fab fa-github
-  - name: Telegram
-    url: https://t.me
-    icon: fab fa-telegram
-  - name: Twitter
-    url: https://twitter.com
-    icon: fab fa-twitter
-  - name: Steam
-    url: https://steam.com
-    icon: fab fa-steam
+  - name: Blog
+    url: https://blog.stickland.top
+    icon: fab fa-blog
 categories:
-  - name: 常用网站
+  - name: MY-WEBSITE
     icon: fas fa-star
     sites:
-      - name: Linux.do
-        url: https://linux.do/
-        icon: fab fa-linux
+      - name: AI-Chat
+        url: https://chat.stickland.top
+        icon: fab fa-chat
         description: 新的理想型社区
       - name: Google
         url: https://www.google.com

@@ -48,24 +48,28 @@ categories:
     sites:
       - name: AI-Chat
         url: https://chat.stickland.top
-        icon: fab fa-chat
-        description: 新的理想型社区
-      - name: Google
-        url: https://www.google.com
-        icon: fab fa-google
-        description: 全球最大的搜索引擎
-      - name: GitHub
-        url: https://www.github.com
-        icon: fab fa-github
-        description: 代码托管平台
-      - name: Stack Overflow
-        url: https://stackoverflow.com
-        icon: fab fa-stack-overflow
-        description: 程序员问答社区
-      - name: ChatGPT
-        url: https://chat.openai.com
-        icon: fas fa-robot
-        description: AI智能助手
+        icon: fa-solid fa-message
+        description: ai公益站,内置多种付费顶级大模型
+      - name: AI-image
+        url: https://image.stickland.top
+        icon: fa-solid fa-images
+        description: ai文生图公益站
+      - name: AI深度研究
+        url: https://deep.stickland.top
+        icon: fa-solid fa-magnifying-glass
+        description: 深度研究，一键导出研究报告（完善中，仅支持免费模型）
+      - name: 取件码-剪切板-文件箱
+        url: https://file.stickland.top
+        icon: fa-solid fa-file
+        description: 支持6位数取件码传文字和文件,支持永久、定时、定次查看销毁。
+      - name: 一键小网页生成
+        url: https://page.stickland.top
+        icon: fa-solid fa-file-lines
+        description: 简单编辑来生成长久可访问的页面(->联系我获得授权)
+      - name: 我的博客
+        url: https://blog.stickland.top
+        icon: fa-solid fa-eye
+        description: 欢迎催促我更新博客
   - name: 学习资源
     icon: fas fa-graduation-cap
     sites:

@@ -49,11 +49,11 @@ categories:
       - name: AI-Chat
         url: https://chat.stickland.top
         icon: fa-solid fa-message
-        description: ai公益站,内置多种付费顶级大模型,密钥:test
+        description: ai公益站,密钥:test，内置多种付费顶级大模型,
       - name: AI-image
         url: https://image.stickland.top
         icon: fa-solid fa-images
-        description: ai文生图公益站
+        description: ai文生图公益站，也许优化不太好...
       - name: AI深度研究
         url: https://deep.stickland.top
         icon: fa-solid fa-magnifying-glass
